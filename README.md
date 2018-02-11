@@ -32,4 +32,4 @@ However, the original file is released under the three-clause BSD license and mo
 
 ### chip8-emulator
 
-The rest of the files are written by me and are released under the three-clause BSD License.
+The rest of the files are written by me and are released under the three-clause BSD License, which can be found in License.txt.
