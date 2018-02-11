@@ -6,6 +6,7 @@ The ROMs are not provided here, you can easily find them on the web if you want.
 ## Prerequisites
 
 You need the following to build this project:
+* Windows (tested and developed on Windows 10)
 * CMake
 * Visual Studio (tested and developed using Visual Studio 2017 Community)
 
