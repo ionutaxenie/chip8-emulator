@@ -29,7 +29,8 @@ This project uses SDL2, which is provided in this repository. You can find the l
 
 FindSDL2.cmake is a script that I found [here](https://github.com/tcbrindle/sdl2-cmake-scripts).
 His modifications are released under the two-clause BSD license.
-However, the original file is released under the three-clause BSD license and most likely originates from [here](https://github.com/Kitware/VTK)
+However, the original file is released under the three-clause BSD license and most likely originates from [here](https://github.com/Kitware/VTK).
+Full license text was copied from the VTK repository into the FindSDL2.cmake file found here.
 
 ### chip8-emulator
 
