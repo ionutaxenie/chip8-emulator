@@ -1,0 +1,1 @@
+Put your chip 8 ROMs here before using cmake.
